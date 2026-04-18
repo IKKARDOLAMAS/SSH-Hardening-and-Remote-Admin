@@ -1,4 +1,4 @@
-# Día 09: Administración Segura y Hardening de Servicios (SSH)
+# Administración Segura y Hardening de Servicios (SSH)
 
 En este laboratorio, cambiamos el rol de "atacante" a "administrador de sistemas". El objetivo fue configurar un acceso remoto seguro entre dos dispositivos en una red híbrida (Cable vs. Wi-Fi) y aplicar técnicas de robustecimiento (Hardening) para proteger el servidor.
 
